@@ -10,8 +10,8 @@
   	<module>demonstration-api</module>
   	<module>demonstration-provider1</module>
   	<module>demonstration-provider2</module>
-  	<module>demonstration-monitor</module>
   	<module>demonstration-consumer</module>
   	<module>demonstration-admin</module>
+  	<module>demonstration-monitor</module>
   </modules>
 </project>
